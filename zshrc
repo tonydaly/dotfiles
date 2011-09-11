@@ -9,7 +9,7 @@ compinit
 setopt auto_cd
 
 # use vim as an editor
-export EDITOR=vim
+export EDITOR=subl
 
 # aliases
 if [ -e "$HOME/.aliases" ]; then
